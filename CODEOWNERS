@@ -1,6 +1,6 @@
 # https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners#codeowners-syntax
 
-csharp-style.md @jbcoe
+csharp-style.md @jbcoeok
 htmlcssguide.html @tonyruscoe
 javaguide.html @dimo414 
 lispguide.xml @sfreilich
